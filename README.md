@@ -4,7 +4,6 @@ Chat with AI personas modeled after **Hitesh Choudhary** and **Piyush Garg** —
 
 Built with **Next.js 15**, **React 19**, **Tailwind CSS 4**, and the **OpenAI API**.
 
-![Persona AI](assets/background.png)
 
 ## Features
 
